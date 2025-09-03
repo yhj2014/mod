@@ -1,0 +1,34 @@
+# Technological Revolution Mod Language File (Chinese)
+# 物品
+item.technological_revolution.energy_pickaxe=能量镐
+item.technological_revolution.energy_sword=能量剑
+item.technological_revolution.energy_shovel=能量锹
+item.technological_revolution.energy_axe=能量斧
+item.technological_revolution.energy_hoe=能量锄
+
+# 方块
+block.technological_revolution.solar_generator=太阳能发电机
+block.technological_revolution.wind_generator=风力发电机
+block.technological_revolution.water_generator=水流发电机
+block.technological_revolution.nuclear_reactor=核反应堆
+block.technological_revolution.ore_crusher=矿石粉碎机
+block.technological_revolution.advanced_furnace=高级熔炉
+block.technological_revolution.auto_farm=自动农场
+block.technological_revolution.auto_miner=自动矿机
+block.technological_revolution.energy_converter=能量转换器
+block.technological_revolution.energy_storage=能量储存装置
+block.technological_revolution.copper_wire=铜线
+block.technological_revolution.gold_wire=金线
+block.technological_revolution.insulated_wire=绝缘电线
+block.technological_revolution.high_voltage_wire=高压电线
+block.technological_revolution.uranium_ore=铀矿石
+block.technological_revolution.lithium_ore=锂矿石
+block.technological_revolution.titanium_ore=钛矿石
+
+# 创造模式物品栏
+itemGroup.technological_revolution=科技革命
+
+# GUI界面
+gui.technological_revolution.energy_stored=能量存储: %d / %d FE
+gui.technological_revolution.generating=发电量: %d FE/t
+gui.technological_revolution.progress=进度: %d%%

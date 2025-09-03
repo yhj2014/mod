@@ -1,0 +1,34 @@
+# Technological Revolution Mod Language File (English)
+# Items
+item.technological_revolution.energy_pickaxe=Energy Pickaxe
+item.technological_revolution.energy_sword=Energy Sword
+item.technological_revolution.energy_shovel=Energy Shovel
+item.technological_revolution.energy_axe=Energy Axe
+item.technological_revolution.energy_hoe=Energy Hoe
+
+# Blocks
+block.technological_revolution.solar_generator=Solar Generator
+block.technological_revolution.wind_generator=Wind Generator
+block.technological_revolution.water_generator=Water Generator
+block.technological_revolution.nuclear_reactor=Nuclear Reactor
+block.technological_revolution.ore_crusher=Ore Crusher
+block.technological_revolution.advanced_furnace=Advanced Furnace
+block.technological_revolution.auto_farm=Auto Farm
+block.technological_revolution.auto_miner=Auto Miner
+block.technological_revolution.energy_converter=Energy Converter
+block.technological_revolution.energy_storage=Energy Storage
+block.technological_revolution.copper_wire=Copper Wire
+block.technological_revolution.gold_wire=Gold Wire
+block.technological_revolution.insulated_wire=Insulated Wire
+block.technological_revolution.high_voltage_wire=High Voltage Wire
+block.technological_revolution.uranium_ore=Uranium Ore
+block.technological_revolution.lithium_ore=Lithium Ore
+block.technological_revolution.titanium_ore=Titanium Ore
+
+# Creative Tabs
+itemGroup.technological_revolution=Technological Revolution
+
+# GUIs
+gui.technological_revolution.energy_stored=Energy Stored: %d / %d FE
+gui.technological_revolution.generating=Generating: %d FE/t
+gui.technological_revulation.progress=Progress: %d%%
