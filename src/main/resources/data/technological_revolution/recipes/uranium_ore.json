@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GUG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "U": {
+      "item": "minecraft:coal_ore"
+    }
+  },
+  "result": {
+    "item": "technological_revolution:uranium_ore"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "PHP",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "H": {
+      "item": "minecraft:hay_block"
+    }
+  },
+  "result": {
+    "item": "technological_revolution:auto_farm"
+  }
+}

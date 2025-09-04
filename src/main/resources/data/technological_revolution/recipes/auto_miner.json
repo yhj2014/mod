@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "PDP",
+    "SSS"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "technological_revolution:auto_miner"
+  }
+}

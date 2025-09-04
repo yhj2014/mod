@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "technological_revolution:lithium_ore"
+  },
+  "result": "minecraft:copper_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

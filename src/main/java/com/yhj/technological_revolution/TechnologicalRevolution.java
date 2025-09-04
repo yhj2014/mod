@@ -13,6 +13,14 @@ public class TechnologicalRevolution {
 
     public TechnologicalRevolution() {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
+        
+        // 注册方块、物品和创造模式物品栏
+        ModBlocks.register(FMLJavaModLoadingContext.get().getModEventBus());
+        ModItems.register(FMLJavaModLoadingContext.get().getModEventBus());
+        ModCreativeTabs.register(FMLJavaModLoadingContext.get().getModEventBus());
+        
+        // 注册方块实体
+        ModBlockEntities.register(FMLJavaModLoadingContext.get().getModEventBus());
     }
 
     private void setup(final FMLCommonSetupEvent event) {

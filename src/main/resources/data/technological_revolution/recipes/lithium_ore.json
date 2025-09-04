@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RLR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "L": {
+      "item": "minecraft:lapis_ore"
+    }
+  },
+  "result": {
+    "item": "technological_revolution:lithium_ore"
+  }
+}
